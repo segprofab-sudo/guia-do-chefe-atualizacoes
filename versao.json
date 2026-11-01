@@ -1,16 +1,16 @@
 {
-  "versao": "1.15.4",
+  "versao": "1.15.5",
   "data": "2026-11-01",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Atualização em segundo plano: baixa enquanto você usa e instala ao fechar o programa, sem perguntas.",
+    "O atualizador não pede mais para forçar o fechamento: o programa salva e fecha sozinho.",
+    "Cada grupo só vê e mexe nos próprios dados (conferido em todas as tabelas).",
     "Ao entrar, o programa confere a internet e a versão nova sozinho (sem configurar nada).",
-    "Revisão geral do sistema: telas, caixa, vendas, estoque, mensalidades e recibos conferidos.",
-    "Atualização online ligada: o programa avisa e baixa as versões novas sozinho.",
-    "Atualização online: baixar e atualizar pelo próprio programa.",
-    "Procura do atualizador nas subpastas e na Área de Trabalho do OneDrive."
+    "Revisão geral do sistema: telas, caixa, vendas, estoque, mensalidades e recibos conferidos."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.15.4.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.15.4.exe",
-  "tamanho": 10330340,
-  "sha256": "2ba276eb16c00d37036403764d6080168290680710b9b29726a2d4bcb7c1f850"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.15.5.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.15.5.exe",
+  "tamanho": 10337918,
+  "sha256": "5192aa27c25c269c2c2c3f69d5c6cf968eca372c99f2411230598c8596272e0d"
 }
