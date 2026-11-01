@@ -1,0 +1,16 @@
+{
+  "versao": "1.15.3",
+  "data": "2026-11-01",
+  "motor": "electron-22.3.27",
+  "novidades": [
+    "Atualização online ligada: o programa avisa e baixa as versões novas sozinho.",
+    "Atualização online: baixar e atualizar pelo próprio programa.",
+    "Procura do atualizador nas subpastas e na Área de Trabalho do OneDrive.",
+    "Faltas justificadas aparecem na aba Sábado e na lista impressa; justificar e editar os detalhes direto do jovem.",
+    "Presença pela câmera do celular."
+  ],
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.15.3.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.15.3.exe",
+  "tamanho": 10329030,
+  "sha256": "c6c368a6a2b2c3ef6a8229698499602f6fe41562557a3f6dffaac9243faf632f"
+}
