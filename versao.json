@@ -1,16 +1,16 @@
 {
-  "versao": "1.15.3",
+  "versao": "1.15.4",
   "data": "2026-11-01",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Ao entrar, o programa confere a internet e a versão nova sozinho (sem configurar nada).",
+    "Revisão geral do sistema: telas, caixa, vendas, estoque, mensalidades e recibos conferidos.",
     "Atualização online ligada: o programa avisa e baixa as versões novas sozinho.",
     "Atualização online: baixar e atualizar pelo próprio programa.",
-    "Procura do atualizador nas subpastas e na Área de Trabalho do OneDrive.",
-    "Faltas justificadas aparecem na aba Sábado e na lista impressa; justificar e editar os detalhes direto do jovem.",
-    "Presença pela câmera do celular."
+    "Procura do atualizador nas subpastas e na Área de Trabalho do OneDrive."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.15.3.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.15.3.exe",
-  "tamanho": 10329030,
-  "sha256": "c6c368a6a2b2c3ef6a8229698499602f6fe41562557a3f6dffaac9243faf632f"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.15.4.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.15.4.exe",
+  "tamanho": 10330340,
+  "sha256": "2ba276eb16c00d37036403764d6080168290680710b9b29726a2d4bcb7c1f850"
 }
