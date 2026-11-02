@@ -1,16 +1,16 @@
 {
-  "versao": "1.16.1",
+  "versao": "1.16.2",
   "data": "2026-11-02",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Aviso novo chega no sino de notificações de todos do grupo (chefia e famílias), na hora.",
-    "Aviso de prioridade alta aparece como urgente na notificação.",
+    "Notificação nova toca um som e aparece como aviso do Windows/celular, com o número de pendentes no ícone.",
+    "No celular (versão online), ative em Notificações → \"Ativar avisos neste aparelho\" para receber mesmo com o app fechado.",
+    "Aviso novo chega no sino de notificações de todos do grupo (chefia e famílias).",
     "Acesso por módulo vale de verdade: quem tem só \"ver\" consulta, mas não inclui, altera nem exclui (o banco também recusa).",
-    "Quem está sem acesso a um módulo não abre a tela e não lê as fichas próprias dele (avisos, segurança, financeiro, almoxarifado).",
-    "Tela em modo consulta: aviso no topo e os botões de incluir, editar e excluir ficam desativados."
+    "Quem está sem acesso a um módulo não abre a tela e não lê as fichas próprias dele (avisos, segurança, financeiro, almoxarifado)."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.1.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.16.1.exe",
-  "tamanho": 10342825,
-  "sha256": "b0bb6c74548f111a2a54eb8f42986de1e75cc711480999853e2ca26911793c98"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.2.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.16.2.exe",
+  "tamanho": 10342845,
+  "sha256": "33906e7f1a0360f5bd2415ad526895f11ac6535096a7208de77da7dd484fc1d9"
 }
