@@ -1,16 +1,15 @@
 {
-  "versao": "1.15.6",
-  "data": "2026-11-01",
+  "versao": "1.16.0",
+  "data": "2026-11-02",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Atualizador mais robusto: espera o programa terminar de fechar e tenta de novo sozinho, sem erro.",
-    "Atualização em segundo plano: baixa enquanto você usa e instala ao fechar o programa, sem perguntas.",
-    "O atualizador não pede mais para forçar o fechamento: o programa salva e fecha sozinho.",
-    "Cada grupo só vê e mexe nos próprios dados (conferido em todas as tabelas).",
-    "Ao entrar, o programa confere a internet e a versão nova sozinho (sem configurar nada)."
+    "Acesso por módulo vale de verdade: quem tem só \"ver\" consulta, mas não inclui, altera nem exclui (o banco também recusa).",
+    "Quem está sem acesso a um módulo não abre a tela e não lê as fichas próprias dele (avisos, segurança, financeiro, almoxarifado).",
+    "Tela em modo consulta: aviso no topo e os botões de incluir, editar e excluir ficam desativados.",
+    "Jovem pode ser cadastrado antes de existir a seção (fica em \"Sem seção\", dentro do grupo)."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.15.6.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.15.6.exe",
-  "tamanho": 10337688,
-  "sha256": "21f559e1c0f929c96fa83e02a9f3d3e5d604b388022c090a28d2f9e567d7d07d"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.16.0.exe",
+  "tamanho": 10339568,
+  "sha256": "d2abed7999dfa4287ac217239fe1b7f41d4ad3b06a41691ec2c76b7eee68f2c5"
 }
