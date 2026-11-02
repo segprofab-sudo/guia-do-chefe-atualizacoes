@@ -1,15 +1,16 @@
 {
-  "versao": "1.16.0",
+  "versao": "1.16.1",
   "data": "2026-11-02",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Aviso novo chega no sino de notificações de todos do grupo (chefia e famílias), na hora.",
+    "Aviso de prioridade alta aparece como urgente na notificação.",
     "Acesso por módulo vale de verdade: quem tem só \"ver\" consulta, mas não inclui, altera nem exclui (o banco também recusa).",
     "Quem está sem acesso a um módulo não abre a tela e não lê as fichas próprias dele (avisos, segurança, financeiro, almoxarifado).",
-    "Tela em modo consulta: aviso no topo e os botões de incluir, editar e excluir ficam desativados.",
-    "Jovem pode ser cadastrado antes de existir a seção (fica em \"Sem seção\", dentro do grupo)."
+    "Tela em modo consulta: aviso no topo e os botões de incluir, editar e excluir ficam desativados."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.16.0.exe",
-  "tamanho": 10339568,
-  "sha256": "d2abed7999dfa4287ac217239fe1b7f41d4ad3b06a41691ec2c76b7eee68f2c5"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.1.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.16.1.exe",
+  "tamanho": 10342825,
+  "sha256": "b0bb6c74548f111a2a54eb8f42986de1e75cc711480999853e2ca26911793c98"
 }
