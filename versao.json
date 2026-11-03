@@ -1,16 +1,16 @@
 {
-  "versao": "1.16.4",
+  "versao": "1.16.5",
   "data": "2026-11-03",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Celular: todas as abas aparecem (antes algumas ficavam escondidas, como Relatórios, Balanço, Campanhas, Frequência e Itens do grupo).",
+    "Celular: filtros, lista de usuários, produtos e dados do grupo ajustados para a tela pequena.",
     "Senha provisória: no primeiro acesso (ou depois que o administrador redefinir), a pessoa cria a própria senha antes de usar o sistema.",
     "Avisos no celular e no computador se ativam sozinhos: no primeiro toque o aparelho pede a permissão uma única vez.",
-    "Notificação nova toca um som e aparece como aviso do Windows/celular, com o número de pendentes no ícone.",
-    "No celular (versão online), ative em Notificações → \"Ativar avisos neste aparelho\" para receber mesmo com o app fechado.",
-    "Aviso novo chega no sino de notificações de todos do grupo (chefia e famílias)."
+    "Notificação nova toca um som e aparece como aviso do Windows/celular, com o número de pendentes no ícone."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.4.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.16.4.exe",
-  "tamanho": 10347865,
-  "sha256": "fe8f9e20987a8f72b4ed44549d00bd7b7cb4ccd1c0fa9a01a896916878fa975e"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.5.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.16.5.exe",
+  "tamanho": 10346752,
+  "sha256": "812636dd4b4e4e227dadc9444657402afe14cbd4f7796d2d888e2604d7432aed"
 }
