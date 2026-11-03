@@ -1,16 +1,16 @@
 {
-  "versao": "1.16.5",
+  "versao": "1.16.6",
   "data": "2026-11-03",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Ícone novo: a logo do grupo preenchendo o ícone inteiro, sem o quadrado branco em volta (atalhos, celular e aba do navegador).",
+    "A aba do navegador usa a logo cadastrada em Identidade do grupo.",
     "Celular: todas as abas aparecem (antes algumas ficavam escondidas, como Relatórios, Balanço, Campanhas, Frequência e Itens do grupo).",
     "Celular: filtros, lista de usuários, produtos e dados do grupo ajustados para a tela pequena.",
-    "Senha provisória: no primeiro acesso (ou depois que o administrador redefinir), a pessoa cria a própria senha antes de usar o sistema.",
-    "Avisos no celular e no computador se ativam sozinhos: no primeiro toque o aparelho pede a permissão uma única vez.",
-    "Notificação nova toca um som e aparece como aviso do Windows/celular, com o número de pendentes no ícone."
+    "Senha provisória: no primeiro acesso (ou depois que o administrador redefinir), a pessoa cria a própria senha antes de usar o sistema."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.5.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.16.5.exe",
-  "tamanho": 10346752,
-  "sha256": "812636dd4b4e4e227dadc9444657402afe14cbd4f7796d2d888e2604d7432aed"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.6.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.16.6.exe",
+  "tamanho": 10324602,
+  "sha256": "d3c5b61676096a5bacce376670913a37a89a0c14fbc079cf545734bf6a185f4c"
 }
