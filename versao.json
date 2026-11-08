@@ -1,17 +1,16 @@
 {
-  "versao": "1.16.8",
+  "versao": "1.16.9",
   "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Painel: o gráfico do Financeiro agora mostra os valores de Receitas, Despesas e Saldo em caixa ao lado de cada barra, e quanto sobrou (ou faltou) no período.",
     "Boas-vindas da patrulha: quando um jovem entra numa patrulha, o jovem e os responsáveis recebem uma notificação.",
     "A notificação abre a página \"Minha patrulha\": como funciona a patrulha, monitor e submonitor, grito da patrulha e da tropa, canção, história, companheiros, material, projetos, Conselho de Patrulha e Corte de Honra.",
     "O monitor e o submonitor são avisados do novo companheiro.",
-    "Novo campo \"Grito da tropa\" em Grupo & Seções.",
-    "Avisos com confirmação de leitura: cada pessoa toca em \"Li e estou ciente\" no aviso.",
-    "A chefia vê \"Lido por X de Y\" e a lista de quem já leu (com data e hora) e de quem ainda não leu."
+    "Novo campo \"Grito da tropa\" em Grupo & Seções."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.8.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.16.8.exe",
-  "tamanho": 10329482,
-  "sha256": "d4e03d508e9e6332e5d8bb13cc5d0d6125a8dae138a950e90ae981719958dfdb"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.9.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.16.9.exe",
+  "tamanho": 10334253,
+  "sha256": "b5c17c20038125d2dd43743e7b0fa0c45147feff8b374ad35c9f7f0f07a892bb"
 }
