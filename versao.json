@@ -1,16 +1,16 @@
 {
-  "versao": "1.20.1",
+  "versao": "1.20.2",
   "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Minha família sem a aba Caminhada e sem a prestação de contas do grupo; esses dados também deixam de ser enviados para as famílias.",
     "Minha família automática: quando o associado do jovem (quem paga a mensalidade) é a mesma pessoa de uma conta do grupo, mesmo CPF, mesmo e-mail ou mesmo nome e telefone, o jovem aparece sozinho em Minha família.",
     "O vínculo acompanha as mudanças: ao trocar o associado ou os dados, ele se ajusta sozinho; os vínculos feitos à mão não são alterados.",
     "Justificativa de falta pela família: em Minha família → Presença, o responsável pede a justificativa (falta dos últimos 30 dias ou aviso de falta futura).",
-    "A chefia da seção recebe a notificação e aprova ou recusa em Presença → Faltas e justificativas; a família é avisada da decisão.",
-    "Só a justificativa aprovada conta na frequência."
+    "A chefia da seção recebe a notificação e aprova ou recusa em Presença → Faltas e justificativas; a família é avisada da decisão."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.20.1.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.20.1.exe",
-  "tamanho": 10349022,
-  "sha256": "46b087a5db28b185c86a17a969675afa3bb5e37300536c8d3b1334a126617e4a"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.20.2.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.20.2.exe",
+  "tamanho": 10351025,
+  "sha256": "85bac597b0d3dc7be61af0f7cbdf3e7c103473f19a1d6d14ade5fd4ea96b6359"
 }
