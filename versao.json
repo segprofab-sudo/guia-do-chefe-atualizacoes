@@ -1,16 +1,16 @@
 {
-  "versao": "1.22.0",
+  "versao": "1.22.1",
   "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Acessos dos jovens: o botão \"Criar acesso para quem não tem\" cria um por vez, mostrando o andamento. Corrige o erro \"Too many subrequests\" da versão online.",
+    "Se a criação de um acesso parar no meio, a conta é desfeita, sem deixar login ocupado.",
     "Acesso dos jovens: ao cadastrar um jovem, o acesso é criado sozinho. Login = primeiro nome + último sobrenome (ex.: alice.silva); senha inicial = data de nascimento (ddmmaaaa), com troca obrigatória no primeiro acesso.",
     "Jovens → Acessos: criar o acesso de quem ainda não tem, redefinir a senha para a data de nascimento e imprimir os cartões com o login.",
-    "Área do jovem (Meu espaço), só para consulta: patrulha, agenda da seção, presença e avisos. Jovem desativado tem o acesso bloqueado; reativado, volta a entrar.",
-    "Responsáveis: no Painel aparece o quadro do Financeiro com o ano todo (receitas, despesas e saldo em caixa), só para ver. A tela separada de prestação de contas saiu do menu da família.",
-    "O Painel da família não mostra mais o \"Painel do chefe\"."
+    "Área do jovem (Meu espaço), só para consulta: patrulha, agenda da seção, presença e avisos. Jovem desativado tem o acesso bloqueado; reativado, volta a entrar."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.22.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.22.0.exe",
-  "tamanho": 10358979,
-  "sha256": "2047b79082dba9cf125ac20073831572382737ed0cd2343e2f74ade787a9c365"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.22.1.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.22.1.exe",
+  "tamanho": 10357292,
+  "sha256": "71eb86fcb84564da1907253c3983af0a61eb2ad779ea462624ae20cc19852f51"
 }
