@@ -1,16 +1,16 @@
 {
-  "versao": "1.21.0",
+  "versao": "1.21.1",
   "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Responsáveis: no Painel aparece o quadro do Financeiro com o ano todo (receitas, despesas e saldo em caixa), só para ver. A tela separada de prestação de contas saiu do menu da família.",
+    "O Painel da família não mostra mais o \"Painel do chefe\".",
     "Prestação de contas para os responsáveis: nova opção no menu da família, só para consulta, com saldo, entradas e saídas por categoria e mês a mês, campanhas e impressão em PDF.",
     "Mostra só os totais: nada de lançamentos individuais nem dados de outras famílias.",
-    "Minha família sem a aba Caminhada e sem a prestação de contas do grupo; esses dados também deixam de ser enviados para as famílias.",
-    "Minha família automática: quando o associado do jovem (quem paga a mensalidade) é a mesma pessoa de uma conta do grupo, mesmo CPF, mesmo e-mail ou mesmo nome e telefone, o jovem aparece sozinho em Minha família.",
-    "O vínculo acompanha as mudanças: ao trocar o associado ou os dados, ele se ajusta sozinho; os vínculos feitos à mão não são alterados."
+    "Minha família sem a aba Caminhada e sem a prestação de contas do grupo; esses dados também deixam de ser enviados para as famílias."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.21.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.21.0.exe",
-  "tamanho": 10351711,
-  "sha256": "97741a94f41904d65aabe0bf67ba81acc78b9ebb506cf3480a0265f95620ede8"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.21.1.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.21.1.exe",
+  "tamanho": 10348205,
+  "sha256": "3c09ae1ae94cff7fd6d9cd033a5baa8f90da71f4d8f52d71248e092289ac884c"
 }
