@@ -1,16 +1,17 @@
 {
-  "versao": "1.16.6",
-  "data": "2026-11-03",
+  "versao": "1.16.7",
+  "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Avisos com confirmação de leitura: cada pessoa toca em \"Li e estou ciente\" no aviso.",
+    "A chefia vê \"Lido por X de Y\" e a lista de quem já leu (com data e hora) e de quem ainda não leu.",
+    "Quem publicou recebe uma notificação quando todos confirmarem; o Painel mostra os avisos com leitura pendente.",
+    "A aba de avisos vencidos agora se chama \"Expirados\".",
     "Ícone novo: a logo do grupo preenchendo o ícone inteiro, sem o quadrado branco em volta (atalhos, celular e aba do navegador).",
-    "A aba do navegador usa a logo cadastrada em Identidade do grupo.",
-    "Celular: todas as abas aparecem (antes algumas ficavam escondidas, como Relatórios, Balanço, Campanhas, Frequência e Itens do grupo).",
-    "Celular: filtros, lista de usuários, produtos e dados do grupo ajustados para a tela pequena.",
-    "Senha provisória: no primeiro acesso (ou depois que o administrador redefinir), a pessoa cria a própria senha antes de usar o sistema."
+    "A aba do navegador usa a logo cadastrada em Identidade do grupo."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.6.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.16.6.exe",
-  "tamanho": 10324602,
-  "sha256": "d3c5b61676096a5bacce376670913a37a89a0c14fbc079cf545734bf6a185f4c"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.7.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.16.7.exe",
+  "tamanho": 10323724,
+  "sha256": "fed8035e8e758e257f9224dc201bc3dffd4461eedbc1990e525136e60e745269"
 }
