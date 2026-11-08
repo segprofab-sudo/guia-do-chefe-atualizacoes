@@ -1,17 +1,17 @@
 {
-  "versao": "1.16.7",
+  "versao": "1.16.8",
   "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Boas-vindas da patrulha: quando um jovem entra numa patrulha, o jovem e os responsáveis recebem uma notificação.",
+    "A notificação abre a página \"Minha patrulha\": como funciona a patrulha, monitor e submonitor, grito da patrulha e da tropa, canção, história, companheiros, material, projetos, Conselho de Patrulha e Corte de Honra.",
+    "O monitor e o submonitor são avisados do novo companheiro.",
+    "Novo campo \"Grito da tropa\" em Grupo & Seções.",
     "Avisos com confirmação de leitura: cada pessoa toca em \"Li e estou ciente\" no aviso.",
-    "A chefia vê \"Lido por X de Y\" e a lista de quem já leu (com data e hora) e de quem ainda não leu.",
-    "Quem publicou recebe uma notificação quando todos confirmarem; o Painel mostra os avisos com leitura pendente.",
-    "A aba de avisos vencidos agora se chama \"Expirados\".",
-    "Ícone novo: a logo do grupo preenchendo o ícone inteiro, sem o quadrado branco em volta (atalhos, celular e aba do navegador).",
-    "A aba do navegador usa a logo cadastrada em Identidade do grupo."
+    "A chefia vê \"Lido por X de Y\" e a lista de quem já leu (com data e hora) e de quem ainda não leu."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.7.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.16.7.exe",
-  "tamanho": 10323724,
-  "sha256": "fed8035e8e758e257f9224dc201bc3dffd4461eedbc1990e525136e60e745269"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.16.8.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.16.8.exe",
+  "tamanho": 10329482,
+  "sha256": "d4e03d508e9e6332e5d8bb13cc5d0d6125a8dae138a950e90ae981719958dfdb"
 }
