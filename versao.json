@@ -1,17 +1,16 @@
 {
-  "versao": "1.18.1",
+  "versao": "1.19.0",
   "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Nova área \"Minha família\" para os responsáveis, só para consulta: agenda do filho (com o que levar e o plano B), mensalidades com a chave Pix, presença nos sábados, ficha médica, caminhada (progressão, especialidades e certificados), patrulha e contatos da chefia da seção.",
+    "Prestação de contas do grupo para as famílias, só com os totais: entradas, saídas, saldo, categorias e campanhas.",
+    "No banco, a família não consegue incluir, alterar nem apagar nada.",
     "Mais rápido: trocar de tela pelo menu ficou cerca de 2 vezes mais rápido, e abrir o sistema também.",
-    "Celular: barra de atalhos embaixo da tela (Painel, Presença, Agenda, Avisos e Menu).",
-    "Painel com atalhos: Lançar presença, Novo aviso, Nova atividade e Cadastrar jovem, que já abrem o formulário.",
-    "Presença: caixas de marcar maiores no celular; o leitor pela câmera só carrega quando é ligado.",
-    "Demonstração online: o endereço /demo abre o sistema completo com um grupo de exemplo, para apresentar a outros chefes. Dá para mexer em tudo e nada fica salvo.",
-    "A demonstração roda no navegador de quem visita e não encosta nos dados do grupo."
+    "Celular: barra de atalhos embaixo da tela (Painel, Presença, Agenda, Avisos e Menu)."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.18.1.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.18.1.exe",
-  "tamanho": 10338127,
-  "sha256": "ec5334109ec52ba565a8cc2cfa0bc1c2ffa6935fd540af2525d8fcb4fccb7d11"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.19.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.19.0.exe",
+  "tamanho": 10351058,
+  "sha256": "eb31ff1e592a94bb73296764508e8ea454a224eb6245fd31fcd32fbb0be0e15e"
 }
