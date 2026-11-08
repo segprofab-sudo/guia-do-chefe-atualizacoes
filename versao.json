@@ -1,17 +1,16 @@
 {
-  "versao": "1.17.0",
+  "versao": "1.18.0",
   "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Demonstração online: o endereço /demo abre o sistema completo com um grupo de exemplo, para apresentar a outros chefes. Dá para mexer em tudo e nada fica salvo.",
+    "A demonstração roda no navegador de quem visita e não encosta nos dados do grupo.",
     "Agenda: a atividade pode ser de uma, duas, três seções ou do grupo todo. No cadastro é só tocar nas seções que participam.",
     "A atividade aparece na Agenda e no Painel de cada seção escolhida, com os nomes das seções.",
-    "Em Participantes, a lista já abre com os jovens das seções da atividade.",
-    "Painel: o gráfico do Financeiro agora mostra os valores de Receitas, Despesas e Saldo em caixa ao lado de cada barra, e quanto sobrou (ou faltou) no período.",
-    "Boas-vindas da patrulha: quando um jovem entra numa patrulha, o jovem e os responsáveis recebem uma notificação.",
-    "A notificação abre a página \"Minha patrulha\": como funciona a patrulha, monitor e submonitor, grito da patrulha e da tropa, canção, história, companheiros, material, projetos, Conselho de Patrulha e Corte de Honra."
+    "Em Participantes, a lista já abre com os jovens das seções da atividade."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.17.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.17.0.exe",
-  "tamanho": 10329234,
-  "sha256": "94cd20fd7d4599aa0bf58b0509f072a5ef44cfc39193d456a33c18a5c8df50ec"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.18.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.18.0.exe",
+  "tamanho": 10335100,
+  "sha256": "b23f47fa77c35c2982bf8a9c9ebece6589783de3bb0518090edbb8c9cc801028"
 }
