@@ -1,16 +1,16 @@
 {
-  "versao": "1.19.1",
+  "versao": "1.20.1",
   "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Correção: apagar um grupo inteiro (com atividades de várias seções) não trava mais.",
-    "Nova área \"Minha família\" para os responsáveis, só para consulta: agenda do filho (com o que levar e o plano B), mensalidades com a chave Pix, presença nos sábados, ficha médica, caminhada (progressão, especialidades e certificados), patrulha e contatos da chefia da seção.",
-    "Prestação de contas do grupo para as famílias, só com os totais: entradas, saídas, saldo, categorias e campanhas.",
-    "No banco, a família não consegue incluir, alterar nem apagar nada.",
-    "Mais rápido: trocar de tela pelo menu ficou cerca de 2 vezes mais rápido, e abrir o sistema também."
+    "Minha família automática: quando o associado do jovem (quem paga a mensalidade) é a mesma pessoa de uma conta do grupo, mesmo CPF, mesmo e-mail ou mesmo nome e telefone, o jovem aparece sozinho em Minha família.",
+    "O vínculo acompanha as mudanças: ao trocar o associado ou os dados, ele se ajusta sozinho; os vínculos feitos à mão não são alterados.",
+    "Justificativa de falta pela família: em Minha família → Presença, o responsável pede a justificativa (falta dos últimos 30 dias ou aviso de falta futura).",
+    "A chefia da seção recebe a notificação e aprova ou recusa em Presença → Faltas e justificativas; a família é avisada da decisão.",
+    "Só a justificativa aprovada conta na frequência."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.19.1.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.19.1.exe",
-  "tamanho": 10346590,
-  "sha256": "b0f2455a72ea23e0fd67346825f0a3d30b2712d338dae7c1f867842f93df5cac"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.20.1.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.20.1.exe",
+  "tamanho": 10349022,
+  "sha256": "46b087a5db28b185c86a17a969675afa3bb5e37300536c8d3b1334a126617e4a"
 }
