@@ -1,16 +1,16 @@
 {
-  "versao": "1.19.0",
+  "versao": "1.19.1",
   "data": "2026-11-08",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Correção: apagar um grupo inteiro (com atividades de várias seções) não trava mais.",
     "Nova área \"Minha família\" para os responsáveis, só para consulta: agenda do filho (com o que levar e o plano B), mensalidades com a chave Pix, presença nos sábados, ficha médica, caminhada (progressão, especialidades e certificados), patrulha e contatos da chefia da seção.",
     "Prestação de contas do grupo para as famílias, só com os totais: entradas, saídas, saldo, categorias e campanhas.",
     "No banco, a família não consegue incluir, alterar nem apagar nada.",
-    "Mais rápido: trocar de tela pelo menu ficou cerca de 2 vezes mais rápido, e abrir o sistema também.",
-    "Celular: barra de atalhos embaixo da tela (Painel, Presença, Agenda, Avisos e Menu)."
+    "Mais rápido: trocar de tela pelo menu ficou cerca de 2 vezes mais rápido, e abrir o sistema também."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.19.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.19.0.exe",
-  "tamanho": 10351058,
-  "sha256": "eb31ff1e592a94bb73296764508e8ea454a224eb6245fd31fcd32fbb0be0e15e"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.19.1.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.19.1.exe",
+  "tamanho": 10346590,
+  "sha256": "b0f2455a72ea23e0fd67346825f0a3d30b2712d338dae7c1f867842f93df5cac"
 }
