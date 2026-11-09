@@ -1,13 +1,15 @@
 {
-  "versao": "1.25.1",
+  "versao": "1.25.2",
   "data": "2026-11-09",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Financeiro → Mensalidades: novo botão \"Cobrar\" (WhatsApp) em cada mensalidade em aberto. Abre a conversa com o associado já com a mensagem pronta: nome, jovens, mês, valor, vencimento (ou atraso) e a chave Pix do grupo. É só tocar em enviar.",
-    "Usa o telefone do associado (cadastro em Associados). Sem telefone, o botão fica apagado."
+    "Backup ao fim do uso: toda vez que o Guia do Chefe é fechado, faz o backup (se algo mudou desde o último).",
+    "Fila de 5 backups: a cada backup novo, o mais antigo é apagado — no computador e na pasta extra (pendrive/OneDrive).",
+    "Proteção: se o programa ficar aberto sem fechar por mais de 7 dias, faz um backup ao abrir.",
+    "Versão online: backup todo dia às 23h47, também numa fila de 5."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.1.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.25.1.exe",
-  "tamanho": 10369891,
-  "sha256": "a0e37b4a81c2db42fd8542b2838e8eb06075984dc1ce04392ea8935167cf69dd"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.2.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.25.2.exe",
+  "tamanho": 10377348,
+  "sha256": "d0b73b614446879287a9bccefe55a9c2842703aa36bb7b1d4c872470b2088269"
 }
