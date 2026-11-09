@@ -1,15 +1,13 @@
 {
-  "versao": "1.25.2",
+  "versao": "1.25.3",
   "data": "2026-11-09",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Backup ao fim do uso: toda vez que o Guia do Chefe é fechado, faz o backup (se algo mudou desde o último).",
-    "Fila de 5 backups: a cada backup novo, o mais antigo é apagado — no computador e na pasta extra (pendrive/OneDrive).",
-    "Proteção: se o programa ficar aberto sem fechar por mais de 7 dias, faz um backup ao abrir.",
-    "Versão online: backup todo dia às 23h47, também numa fila de 5."
+    "Associados: quem não tem permissão para cadastrar/vincular responsáveis agora vê um aviso claro (e os botões de editar somem), em vez de preencher tudo e receber erro no final.",
+    "Vincular jovens à família ficou mais seguro: só tira os jovens desmarcados e só acrescenta os novos. Antes, se a gravação falhasse no meio, a família podia ficar sem nenhum jovem."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.2.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.25.2.exe",
-  "tamanho": 10377348,
-  "sha256": "d0b73b614446879287a9bccefe55a9c2842703aa36bb7b1d4c872470b2088269"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.3.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.25.3.exe",
+  "tamanho": 10374414,
+  "sha256": "91c8eb0100728cb7ad1b487ec972106d28d5293b0bfd8ed96b6d94dc55082c46"
 }
