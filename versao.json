@@ -1,14 +1,13 @@
 {
-  "versao": "1.25.6",
+  "versao": "1.25.7",
   "data": "2026-11-09",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Todo chefe é associado: ao cadastrar ou editar um chefe, o sistema acha o cadastro dele em Associados (CPF, e-mail, login ou nome) e, se não existir, cria com os dados da ficha. Os chefes atuais já foram incluídos.",
-    "Chefe ligado à família do cônjuge (ex.: esposa/esposo) passa a ver os jovens dessa família em Minha família.",
-    "Mensalidade continua só para associado com jovem vinculado: chefe sem filho no grupo não é cobrado."
+    "Família de chefe usa o login do próprio chefe (titular ou cônjuge): não aparece mais \"Criar login da família\" para ela.",
+    "Associados mostra, em cada família, quem já entra no aplicativo e por qual login (de chefe, de jovem ou da família). O botão de criar login só aparece quando ninguém da família entra."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.6.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.25.6.exe",
-  "tamanho": 10381539,
-  "sha256": "e85ba20df257ffc03cf741a1987cbd2ff08e4835386e457a99343b4750781335"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.7.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.25.7.exe",
+  "tamanho": 10380272,
+  "sha256": "e077ff2fb5fce81874434778ab2fd9f0a36dd6b67503dd731bae31d6d39e7e44"
 }
