@@ -1,13 +1,13 @@
 {
-  "versao": "1.25.3",
+  "versao": "1.25.4",
   "data": "2026-11-09",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Associados: quem não tem permissão para cadastrar/vincular responsáveis agora vê um aviso claro (e os botões de editar somem), em vez de preencher tudo e receber erro no final.",
-    "Vincular jovens à família ficou mais seguro: só tira os jovens desmarcados e só acrescenta os novos. Antes, se a gravação falhasse no meio, a família podia ficar sem nenhum jovem."
+    "Cadastro de famílias (Associados) e vínculo de responsáveis: só administradores, a diretoria e quem o administrador autorizou em Usuários → Responsáveis. Os demais chefes só veem.",
+    "Se o administrador tirar a permissão de alguém em Usuários, vale a escolha dele — mesmo para quem é da diretoria."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.3.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.25.3.exe",
-  "tamanho": 10374414,
-  "sha256": "91c8eb0100728cb7ad1b487ec972106d28d5293b0bfd8ed96b6d94dc55082c46"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.4.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.25.4.exe",
+  "tamanho": 10373944,
+  "sha256": "faf939bee0affafacde930826594ebf81556b00cbf4fad51c0ac0de3b2a87012"
 }
