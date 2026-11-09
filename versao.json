@@ -1,16 +1,14 @@
 {
-  "versao": "1.25.5",
+  "versao": "1.25.6",
   "data": "2026-11-09",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Login da família: em Associados (e direto em Pendências) há o botão \"Criar login da família\". Login = nome.sobrenome do responsável; senha inicial = 6 primeiros números do CPF, com troca obrigatória no primeiro acesso. Cartão de acesso para imprimir, com QR code.",
-    "Assim que o login é criado, os jovens da família aparecem sozinhos em Minha família e saem das pendências.",
-    "Jovem adulto que é o próprio associado (ou associado do irmão) passa a usar o login de jovem também como família.",
-    "Pendências: cada jovem mostra a família cadastrada (com o botão para criar o login) ou \"sem família cadastrada\" (com o atalho para cadastrar).",
-    "Painel inicial: Próximas atividades e Aniversariantes logo abaixo dos Avisos; os atalhos ficaram menores, os 5 lado a lado numa linha."
+    "Todo chefe é associado: ao cadastrar ou editar um chefe, o sistema acha o cadastro dele em Associados (CPF, e-mail, login ou nome) e, se não existir, cria com os dados da ficha. Os chefes atuais já foram incluídos.",
+    "Chefe ligado à família do cônjuge (ex.: esposa/esposo) passa a ver os jovens dessa família em Minha família.",
+    "Mensalidade continua só para associado com jovem vinculado: chefe sem filho no grupo não é cobrado."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.5.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.25.5.exe",
-  "tamanho": 10380607,
-  "sha256": "b89aa9aa20b164bc8212e80ed083fa2d523feaca282cf467fbd755f0140fa654"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.6.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.25.6.exe",
+  "tamanho": 10381539,
+  "sha256": "e85ba20df257ffc03cf741a1987cbd2ff08e4835386e457a99343b4750781335"
 }
