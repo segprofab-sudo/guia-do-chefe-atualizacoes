@@ -1,17 +1,15 @@
 {
-  "versao": "1.23.0",
+  "versao": "1.24.0",
   "data": "2026-11-09",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Lembretes automáticos: a família recebe aviso de mensalidade vencendo (3 dias antes) e em atraso, e de ficha médica sem preencher ou com mais de um ano. Cada lembrete sai uma vez só.",
-    "Aniversários: a chefia da seção recebe um aviso no dia, e o jovem com acesso recebe os parabéns.",
-    "Novo painel Pendências (só chefia): jovens sem data de nascimento, sem seção, sem ficha médica, sem família ligada ou sem acesso; associados sem CPF/telefone; documentos e registro UEB dos chefes. Cada item com o atalho para resolver.",
-    "Celular: passo a passo para instalar como aplicativo no Android e no iPhone, e uma dica no topo para quem ainda não instalou.",
-    "Logos mais leves (WebP): o sistema abre mais rápido, principalmente no celular.",
-    "Versão online: cópia de segurança semanal do banco, criptografada."
+    "Agenda por planilha: em Agenda → Importar planilha, baixe o modelo, preencha o semestre no Excel (grupo todo e cada seção) e importe tudo de uma vez.",
+    "Antes de gravar, o sistema mostra a conferência linha a linha: datas, horários, tipos e seções. Atividade com o mesmo nome no mesmo dia que já está na agenda não entra repetida.",
+    "Ao importar, cada jovem com acesso e cada família das seções envolvidas recebe um aviso único: quantas atividades novas e qual é a próxima.",
+    "Agenda → Exportar: baixa a agenda (com os filtros de seção, tipo e período) em Excel, no mesmo formato do modelo — serve de controle e de base para o próximo semestre."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.23.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.23.0.exe",
-  "tamanho": 10366450,
-  "sha256": "5552e5ab671a881d56c0502c1da850304369182d9f903da0808d1eb45aee946c"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.24.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.24.0.exe",
+  "tamanho": 10365897,
+  "sha256": "ad38cabd40a538da3db5d545aba8f4c75d5760692fa60f94ef07298f0cc38d8b"
 }
