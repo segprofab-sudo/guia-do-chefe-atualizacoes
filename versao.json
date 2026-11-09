@@ -1,14 +1,15 @@
 {
-  "versao": "1.24.1",
+  "versao": "1.25.0",
   "data": "2026-11-09",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Agenda macro: o modelo da planilha agora tem só Data, Atividade, Tipo de atividade, Seções e Local. A exportação sai no mesmo formato.",
-    "Os detalhes (horário, retorno, materiais, plano B, objetivo) a chefia completa na Agenda perto da data.",
-    "Novo lembrete: faltando de 15 a 7 dias para cada atividade, a chefia da seção recebe um aviso para completar os detalhes e pedir aos pais a autorização e os documentos assinados."
+    "Mensalidade automática: todo dia 1º o sistema gera a mensalidade do mês de cada família cadastrada em Associados (irmãos pagam uma só).",
+    "Valor padrão R$ 50,00 para famílias novas. Para mensalidade social, altere o valor da família em Associados.",
+    "Financeiro → Mensalidades: novo lápis para editar o valor de uma mensalidade em aberto, com a opção de manter o valor nos próximos meses.",
+    "Família com valor R$ 0 (isenta) ou sem jovem vinculado não recebe cobrança."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.24.1.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.24.1.exe",
-  "tamanho": 10369987,
-  "sha256": "ab602d2da183273965067511e58dc14a2a14a3997a118ba46f103700208de370"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.25.0.exe",
+  "tamanho": 10371157,
+  "sha256": "3dc71afd22443b9d66e53261f91d39bc6a65a214cbf240a7e22d6599547b2cc3"
 }

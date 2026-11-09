@@ -4,7 +4,7 @@ Atualizadores do **Guia do Chefe** (programa instalado / pendrive) do GEMAR Atal
 
 ## ⬇️ Baixar o atualizador (sempre a versão mais nova)
 
-**[Atualizar-Guia-do-Chefe.exe](https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/Atualizar-Guia-do-Chefe.exe)** — versão atual: **1.24.1** (cerca de 10 MB)
+**[Atualizar-Guia-do-Chefe.exe](https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/Atualizar-Guia-do-Chefe.exe)** — versão atual: **1.25.0** (cerca de 10 MB)
 
 1. Baixe o arquivo acima.
 2. Dê dois cliques. Ele acha o Guia do Chefe instalado, fecha o programa com segurança (salvando os dados) e troca só os arquivos do programa.
