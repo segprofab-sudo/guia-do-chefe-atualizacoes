@@ -1,16 +1,16 @@
 {
-  "versao": "1.22.1",
-  "data": "2026-11-08",
+  "versao": "1.22.2",
+  "data": "2026-11-09",
   "motor": "electron-22.3.27",
   "novidades": [
+    "Cartão de acesso do jovem com QR code: é só apontar a câmera do celular para abrir a tela de entrada.",
     "Acessos dos jovens: o botão \"Criar acesso para quem não tem\" cria um por vez, mostrando o andamento. Corrige o erro \"Too many subrequests\" da versão online.",
     "Se a criação de um acesso parar no meio, a conta é desfeita, sem deixar login ocupado.",
     "Acesso dos jovens: ao cadastrar um jovem, o acesso é criado sozinho. Login = primeiro nome + último sobrenome (ex.: alice.silva); senha inicial = data de nascimento (ddmmaaaa), com troca obrigatória no primeiro acesso.",
-    "Jovens → Acessos: criar o acesso de quem ainda não tem, redefinir a senha para a data de nascimento e imprimir os cartões com o login.",
-    "Área do jovem (Meu espaço), só para consulta: patrulha, agenda da seção, presença e avisos. Jovem desativado tem o acesso bloqueado; reativado, volta a entrar."
+    "Jovens → Acessos: criar o acesso de quem ainda não tem, redefinir a senha para a data de nascimento e imprimir os cartões com o login."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.22.1.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.22.1.exe",
-  "tamanho": 10357292,
-  "sha256": "71eb86fcb84564da1907253c3983af0a61eb2ad779ea462624ae20cc19852f51"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.22.2.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.22.2.exe",
+  "tamanho": 10357982,
+  "sha256": "c88ab71c7c45532cc3f9edbca22a715ea7ce6dc680334cfe394e9199c0e605dc"
 }
