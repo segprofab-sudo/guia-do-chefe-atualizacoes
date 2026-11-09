@@ -1,16 +1,17 @@
 {
-  "versao": "1.22.2",
+  "versao": "1.23.0",
   "data": "2026-11-09",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Cartão de acesso do jovem com QR code: é só apontar a câmera do celular para abrir a tela de entrada.",
-    "Acessos dos jovens: o botão \"Criar acesso para quem não tem\" cria um por vez, mostrando o andamento. Corrige o erro \"Too many subrequests\" da versão online.",
-    "Se a criação de um acesso parar no meio, a conta é desfeita, sem deixar login ocupado.",
-    "Acesso dos jovens: ao cadastrar um jovem, o acesso é criado sozinho. Login = primeiro nome + último sobrenome (ex.: alice.silva); senha inicial = data de nascimento (ddmmaaaa), com troca obrigatória no primeiro acesso.",
-    "Jovens → Acessos: criar o acesso de quem ainda não tem, redefinir a senha para a data de nascimento e imprimir os cartões com o login."
+    "Lembretes automáticos: a família recebe aviso de mensalidade vencendo (3 dias antes) e em atraso, e de ficha médica sem preencher ou com mais de um ano. Cada lembrete sai uma vez só.",
+    "Aniversários: a chefia da seção recebe um aviso no dia, e o jovem com acesso recebe os parabéns.",
+    "Novo painel Pendências (só chefia): jovens sem data de nascimento, sem seção, sem ficha médica, sem família ligada ou sem acesso; associados sem CPF/telefone; documentos e registro UEB dos chefes. Cada item com o atalho para resolver.",
+    "Celular: passo a passo para instalar como aplicativo no Android e no iPhone, e uma dica no topo para quem ainda não instalou.",
+    "Logos mais leves (WebP): o sistema abre mais rápido, principalmente no celular.",
+    "Versão online: cópia de segurança semanal do banco, criptografada."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.22.2.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.22.2.exe",
-  "tamanho": 10357982,
-  "sha256": "c88ab71c7c45532cc3f9edbca22a715ea7ce6dc680334cfe394e9199c0e605dc"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.23.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.23.0.exe",
+  "tamanho": 10366450,
+  "sha256": "5552e5ab671a881d56c0502c1da850304369182d9f903da0808d1eb45aee946c"
 }
