@@ -1,14 +1,13 @@
 {
-  "versao": "1.25.9",
+  "versao": "1.26.0",
   "data": "2026-11-11",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Diário da seção também para os jovens, pelo cadastro de cada um (só leitura): monitores e submonitores leem o diário da própria seção; todo o Clã lê o diário do Clã; o auxiliar de chefia lê o diário da seção que auxilia.",
-    "Novo campo no cadastro do jovem: \"Auxiliar de chefia na seção\".",
-    "A chefia continua vendo e escrevendo o diário como antes."
+    "Painel: \"Aniversariantes do mês\" agora mostra jovens E chefes que fazem aniversário no mês, em ordem de dia, com destaque para quem faz aniversário hoje.",
+    "Aniversário de chefe: no dia, toda a chefia recebe o aviso e o próprio chefe recebe os parabéns (como já acontecia com os jovens)."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.9.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.25.9.exe",
-  "tamanho": 10385986,
-  "sha256": "bab1b02e169af0ded7fd76a93075a673f62a70c2a2d632e52bbe8868c2d83522"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.26.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.26.0.exe",
+  "tamanho": 10382664,
+  "sha256": "27b7d037460d0fa25d0dbfca4a38d180f797c50b67995dc8c691492ac11408e2"
 }
