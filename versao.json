@@ -1,13 +1,13 @@
 {
-  "versao": "1.26.0",
+  "versao": "1.26.1",
   "data": "2026-11-11",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Painel: \"Aniversariantes do mês\" agora mostra jovens E chefes que fazem aniversário no mês, em ordem de dia, com destaque para quem faz aniversário hoje.",
-    "Aniversário de chefe: no dia, toda a chefia recebe o aviso e o próprio chefe recebe os parabéns (como já acontecia com os jovens)."
+    "Corrige o erro \"Não foi possível carregar os jovens\" na versão online (lista de jovens, ficha, presença, carteirinhas e certificados). Nenhum dado foi perdido.",
+    "Novo teste automático com as consultas de cada tela no servidor online, para esse tipo de erro não voltar."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.26.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.26.0.exe",
-  "tamanho": 10382664,
-  "sha256": "27b7d037460d0fa25d0dbfca4a38d180f797c50b67995dc8c691492ac11408e2"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.26.1.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.26.1.exe",
+  "tamanho": 10386256,
+  "sha256": "8616a2a7596d9c218b3b2fef23040c4f9d3d5451e3b21617d921cf1fb5ef8e11"
 }
