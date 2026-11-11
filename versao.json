@@ -1,13 +1,14 @@
 {
-  "versao": "1.26.1",
+  "versao": "1.26.2",
   "data": "2026-11-11",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Corrige o erro \"Não foi possível carregar os jovens\" na versão online (lista de jovens, ficha, presença, carteirinhas e certificados). Nenhum dado foi perdido.",
-    "Novo teste automático com as consultas de cada tela no servidor online, para esse tipo de erro não voltar."
+    "Chefes: o administrador cria o login do adulto direto na ficha — botão \"Criar login\" na lista, ou \"Criar login novo ao salvar\" no campo Login do cadastro.",
+    "Login = nome.sobrenome; senha inicial = data de nascimento (ddmmaaaa) ou, sem data, os 6 primeiros números do CPF. No primeiro acesso a pessoa troca a senha.",
+    "A conta já nasce com papel de chefe, no grupo e na seção da ficha."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.26.1.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.26.1.exe",
-  "tamanho": 10386256,
-  "sha256": "8616a2a7596d9c218b3b2fef23040c4f9d3d5451e3b21617d921cf1fb5ef8e11"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.26.2.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.26.2.exe",
+  "tamanho": 10381490,
+  "sha256": "bde07dcdf113c6a91e0a2782c8c2e2c571f38767c289d38747b9ba58cec638f9"
 }
