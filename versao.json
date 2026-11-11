@@ -1,13 +1,14 @@
 {
-  "versao": "1.25.8",
+  "versao": "1.25.9",
   "data": "2026-11-11",
   "motor": "electron-22.3.27",
   "novidades": [
-    "O jovem com login também tem \"Minha família\": vê as informações dele e dos irmãos da mesma família — agenda, mensalidades (com Pix), presença, saúde e contatos da chefia.",
-    "Para o jovem é só consulta: autorizar atividades e pedir justificativa de falta continuam com os responsáveis."
+    "Diário da seção também para os jovens, pelo cadastro de cada um (só leitura): monitores e submonitores leem o diário da própria seção; todo o Clã lê o diário do Clã; o auxiliar de chefia lê o diário da seção que auxilia.",
+    "Novo campo no cadastro do jovem: \"Auxiliar de chefia na seção\".",
+    "A chefia continua vendo e escrevendo o diário como antes."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.8.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.25.8.exe",
-  "tamanho": 10377756,
-  "sha256": "d4b13aa929d2dc967a0754e09099120627ca55cacf3f102b66f4a9c5dad37d31"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.9.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.25.9.exe",
+  "tamanho": 10385986,
+  "sha256": "bab1b02e169af0ded7fd76a93075a673f62a70c2a2d632e52bbe8868c2d83522"
 }
