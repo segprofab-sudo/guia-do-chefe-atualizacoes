@@ -1,13 +1,13 @@
 {
-  "versao": "1.25.7",
-  "data": "2026-11-09",
+  "versao": "1.25.8",
+  "data": "2026-11-11",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Família de chefe usa o login do próprio chefe (titular ou cônjuge): não aparece mais \"Criar login da família\" para ela.",
-    "Associados mostra, em cada família, quem já entra no aplicativo e por qual login (de chefe, de jovem ou da família). O botão de criar login só aparece quando ninguém da família entra."
+    "O jovem com login também tem \"Minha família\": vê as informações dele e dos irmãos da mesma família — agenda, mensalidades (com Pix), presença, saúde e contatos da chefia.",
+    "Para o jovem é só consulta: autorizar atividades e pedir justificativa de falta continuam com os responsáveis."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.7.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.25.7.exe",
-  "tamanho": 10380272,
-  "sha256": "e077ff2fb5fce81874434778ab2fd9f0a36dd6b67503dd731bae31d6d39e7e44"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.25.8.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.25.8.exe",
+  "tamanho": 10377756,
+  "sha256": "d4b13aa929d2dc967a0754e09099120627ca55cacf3f102b66f4a9c5dad37d31"
 }
