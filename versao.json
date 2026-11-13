@@ -1,13 +1,15 @@
 {
-  "versao": "1.26.3",
-  "data": "2026-11-11",
+  "versao": "1.26.4",
+  "data": "2026-11-13",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Lembretes do dia no horário: no online, o próprio banco dispara às 6h17 os avisos de mensalidade, ficha médica, aniversários e agenda (antes podiam chegar só à tarde).",
-    "Conferência geral de sincronia: banco online, programa instalado, atualizador e cópias de segurança conferidos e iguais."
+    "Usuários & Perfis: novo botão \"Cartões de acesso\" imprime (ou salva em PDF) os cartões de todos os usuários — chefes, famílias e jovens — no mesmo modelo dos cartões dos jovens, com QR code para entrar.",
+    "Filtros por tipo de usuário, por seção e só de quem ainda não trocou a senha. Contas desativadas ficam de fora.",
+    "O cartão nunca mostra a senha: traz a regra da senha inicial de cada conta (data de nascimento, CPF ou a senha que a administração informou).",
+    "Cartões no programa instalado: o texto de como entrar não aperta mais o nome e o login."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.26.3.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.26.3.exe",
-  "tamanho": 10385424,
-  "sha256": "02495ceca0c23d41762d7870e4bf3a04d19929f3c2bdb89692524c119a84d8f7"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.26.4.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.26.4.exe",
+  "tamanho": 10386203,
+  "sha256": "3305e61976de09c942c48c0f74415ac98bbdaae4f538726cffdf91ec24445e26"
 }
