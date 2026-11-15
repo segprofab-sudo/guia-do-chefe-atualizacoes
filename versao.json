@@ -1,16 +1,16 @@
 {
-  "versao": "1.27.0",
+  "versao": "1.28.0",
   "data": "2026-11-15",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Integração dos novos jovens: a planilha da chefia agora está no sistema (Jovens → aba Integração e na ficha do jovem). Ingresso, documentos, reunião de integração, os 4 primeiros sábados, mensalidade e registro escoteiro — clique em cada item para marcar entregue/feito com a data ou voltar para pendente.",
-    "Os sábados entram sozinhos pela presença da carteirinha (e dá para marcar à mão os anteriores); o registro escoteiro marca sozinho quando a UEB é paga; a mensalidade (normal ou social) vem da família.",
-    "Jovem novo entra sozinho na integração; os já cadastrados entram por \"Incluir jovens\". Botão \"Baixar planilha\" no mesmo modelo da planilha usada hoje.",
-    "Chefes e Associados: botão do olho (ou clique no nome) mostra todos os dados sem abrir a edição.",
-    "Associados: aviso de possível duplicidade — mesma pessoa cadastrada duas vezes, cônjuge com família separada ou jovem em duas famílias (a mensalidade sairia em dobro). O sistema também pergunta antes de salvar uma família repetida."
+    "Documentos do jovem: aba \"Documentos\" na ficha do jovem e no Minha família. A família envia (PDF ou foto do celular) e o documento fica pendente de avaliação; a chefia abre, aprova ou recusa com o motivo, e a família é avisada.",
+    "Limite de 5 MB por jovem (documentos + foto do cadastro), para caber no plano gratuito. As fotos são reduzidas sozinhas no celular antes de enviar (um documento fotografado fica com poucos centésimos de MB).",
+    "A chefia da seção recebe um aviso quando chega documento para avaliar; a aba mostra quantos estão pendentes.",
+    "Painel da família: a agenda aparece uma vez só, completa, com os próximos 30 dias (grupo todo e seções dos filhos), e os aniversariantes do mês aparecem completos (jovens e chefes, sem o ano de nascimento). Os quadros repetidos de resumo saíram para a família.",
+    "Backup: os arquivos dos documentos vão num backup à parte, guardando só o mais novo, para não estourar o espaço gratuito do GitHub."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.27.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.27.0.exe",
-  "tamanho": 10356733,
-  "sha256": "9e27c913aeb6ba737a3dee91750a2a8800ec5f3e6db6acc016caeba9bf38b9b2"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.28.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.28.0.exe",
+  "tamanho": 10365553,
+  "sha256": "0a5df8409702dfc0d40fee06c79fddc6774c85ed28171dcd5aea04dc83ad81a1"
 }
