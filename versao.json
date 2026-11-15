@@ -1,14 +1,16 @@
 {
-  "versao": "1.26.5",
-  "data": "2026-11-13",
+  "versao": "1.27.0",
+  "data": "2026-11-15",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Novo ícone do Guia do Chefe: uma bússola, com a flor-de-lis marcando o norte. É o ícone do aplicativo no celular, das notificações e da imagem que aparece ao compartilhar o link.",
-    "O brasão do grupo continua em todo o resto: tela de entrada, menu, documentos e aba do navegador.",
-    "No iPhone e em alguns Android, para ver o ícone novo pode ser preciso remover o atalho e instalar de novo."
+    "Integração dos novos jovens: a planilha da chefia agora está no sistema (Jovens → aba Integração e na ficha do jovem). Ingresso, documentos, reunião de integração, os 4 primeiros sábados, mensalidade e registro escoteiro — clique em cada item para marcar entregue/feito com a data ou voltar para pendente.",
+    "Os sábados entram sozinhos pela presença da carteirinha (e dá para marcar à mão os anteriores); o registro escoteiro marca sozinho quando a UEB é paga; a mensalidade (normal ou social) vem da família.",
+    "Jovem novo entra sozinho na integração; os já cadastrados entram por \"Incluir jovens\". Botão \"Baixar planilha\" no mesmo modelo da planilha usada hoje.",
+    "Chefes e Associados: botão do olho (ou clique no nome) mostra todos os dados sem abrir a edição.",
+    "Associados: aviso de possível duplicidade — mesma pessoa cadastrada duas vezes, cônjuge com família separada ou jovem em duas famílias (a mensalidade sairia em dobro). O sistema também pergunta antes de salvar uma família repetida."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.26.5.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.26.5.exe",
-  "tamanho": 10344793,
-  "sha256": "dc38f230d255c92223cb82747f1e5ade73f3dabc48737296e3121276ab61e2db"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.27.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.27.0.exe",
+  "tamanho": 10356733,
+  "sha256": "9e27c913aeb6ba737a3dee91750a2a8800ec5f3e6db6acc016caeba9bf38b9b2"
 }
