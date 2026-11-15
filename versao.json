@@ -1,16 +1,12 @@
 {
-  "versao": "1.28.0",
+  "versao": "1.28.1",
   "data": "2026-11-15",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Documentos do jovem: aba \"Documentos\" na ficha do jovem e no Minha família. A família envia (PDF ou foto do celular) e o documento fica pendente de avaliação; a chefia abre, aprova ou recusa com o motivo, e a família é avisada.",
-    "Limite de 5 MB por jovem (documentos + foto do cadastro), para caber no plano gratuito. As fotos são reduzidas sozinhas no celular antes de enviar (um documento fotografado fica com poucos centésimos de MB).",
-    "A chefia da seção recebe um aviso quando chega documento para avaliar; a aba mostra quantos estão pendentes.",
-    "Painel da família: a agenda aparece uma vez só, completa, com os próximos 30 dias (grupo todo e seções dos filhos), e os aniversariantes do mês aparecem completos (jovens e chefes, sem o ano de nascimento). Os quadros repetidos de resumo saíram para a família.",
-    "Backup: os arquivos dos documentos vão num backup à parte, guardando só o mais novo, para não estourar o espaço gratuito do GitHub."
+    "Associados: jovem em duas famílias (pais separados, por exemplo) não é mais marcado como duplicidade. O aviso fica só para a mesma pessoa cadastrada duas vezes; ao salvar, o sistema ainda pergunta se o jovem já está em outra família."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.28.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.28.0.exe",
-  "tamanho": 10365553,
-  "sha256": "0a5df8409702dfc0d40fee06c79fddc6774c85ed28171dcd5aea04dc83ad81a1"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.28.1.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.28.1.exe",
+  "tamanho": 10370697,
+  "sha256": "3b13aaa8784a6125b02190b0aa880ef10ba4e6b7436bbcf1c3756fc8d4dc6e32"
 }
