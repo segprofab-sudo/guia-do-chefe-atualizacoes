@@ -1,16 +1,13 @@
 {
-  "versao": "1.30.0",
+  "versao": "1.30.1",
   "data": "2026-11-16",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Transferência entre grupos (online): na ficha do jovem (ou do adulto, em Chefes) há \"Transferir para outro grupo\". A família autoriza pelo aplicativo (o adulto autoriza a própria), e o administrador ou a diretoria do grupo de destino aceita e escolhe a seção.",
-    "Vão junto: cadastro, ficha médica, progressão, especialidades, certificados, documentos e o histórico completo (presenças dos sábados, faltas justificadas, atividades e registros UEB), que o novo grupo consulta na ficha. O login continua o mesmo.",
-    "Com mensalidade em aberto, a transferência fica bloqueada até o acerto.",
-    "Ficam no grupo de origem: mensalidades e financeiro, atas e diário; o Efetivo de lá conta a saída por transferência.",
-    "Lembrete em cada etapa: a transferência oficial também precisa ser feita no Paxtu."
+    "Patrulhas: botão de excluir (lixeira) em cada patrulha da lista, para quem edita patrulhas. Antes de excluir, o sistema mostra quantos jovens ela tem; eles ficam sem patrulha (não são apagados) e dá para colocá-los em outra.",
+    "A lista de patrulhas agora mostra a seção e quantos jovens cada uma tem, para achar as duplicadas com facilidade."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.30.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.30.0.exe",
-  "tamanho": 10384196,
-  "sha256": "701e991454ebe728100592610f4563752ee21c1f85001b1ee2a13353ff2591be"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.30.1.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.30.1.exe",
+  "tamanho": 10385335,
+  "sha256": "75c2e8da3a6232340a1642f3ab09880625736bd8f3cde36911690bb2b24d0ec5"
 }
