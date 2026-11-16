@@ -1,12 +1,12 @@
 {
-  "versao": "1.28.2",
-  "data": "2026-11-15",
+  "versao": "1.28.3",
+  "data": "2026-11-16",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Documentos no celular: o nome do documento aparece inteiro e os botões descem para a linha de baixo, sem cortar o texto."
+    "Painel: os aniversariantes aparecem só na lista do mês (saiu o quadradinho repetido). A agenda também aparece uma vez só, com tudo dos próximos 30 dias, para todos (chefia e famílias)."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.28.2.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.28.2.exe",
-  "tamanho": 10366769,
-  "sha256": "57241b0a7309805921c71692bfe3e9754c5e2e5eb7b24dfc1707427ff613390c"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.28.3.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.28.3.exe",
+  "tamanho": 10364675,
+  "sha256": "6b98eea044232a7d73c55764e35c1b32fb721552041987e51a154e5a33494783"
 }
