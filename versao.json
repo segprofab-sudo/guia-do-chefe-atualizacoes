@@ -1,16 +1,16 @@
 {
-  "versao": "1.29.0",
+  "versao": "1.30.0",
   "data": "2026-11-16",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Atas da seção (menu Operação): Conselho de Patrulha, Roca de Conselho, Corte de Honra, Conselho de Clã, Assembleia e reunião da chefia da seção — com presentes, pauta, registro, decisões e impressão para assinar.",
-    "Quem acessa: diretoria (todas as seções), chefes da seção e os jovens indicados pela chefia — o jovem indicado lê; marcado \"pode redigir\", também registra (ex.: secretário da Corte de Honra).",
-    "Formação dos adultos com os níveis Preliminar, Intermediário, Avançado e Insígnia da Madeira (os cadastros antigos foram convertidos).",
-    "Novo painel Efetivo (menu Cadastros): jovens e chefes por seção, entradas e saídas, evolução dos últimos 12 meses, presentes por sábado e a frequência de cada jovem pela presença da carteirinha, com destaque para quem está com frequência baixa ou 3 sábados seguidos sem vir. Também baixa em planilha.",
-    "Ao inativar um jovem, o sistema guarda a data de saída (para o efetivo e para tentar trazer de volta)."
+    "Transferência entre grupos (online): na ficha do jovem (ou do adulto, em Chefes) há \"Transferir para outro grupo\". A família autoriza pelo aplicativo (o adulto autoriza a própria), e o administrador ou a diretoria do grupo de destino aceita e escolhe a seção.",
+    "Vão junto: cadastro, ficha médica, progressão, especialidades, certificados, documentos e o histórico completo (presenças dos sábados, faltas justificadas, atividades e registros UEB), que o novo grupo consulta na ficha. O login continua o mesmo.",
+    "Com mensalidade em aberto, a transferência fica bloqueada até o acerto.",
+    "Ficam no grupo de origem: mensalidades e financeiro, atas e diário; o Efetivo de lá conta a saída por transferência.",
+    "Lembrete em cada etapa: a transferência oficial também precisa ser feita no Paxtu."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.29.0.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.29.0.exe",
-  "tamanho": 10386458,
-  "sha256": "d3425ac3732c721269fb8b497d117c18cbb4fa15c7787e6d165a4b3280793eac"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.30.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.30.0.exe",
+  "tamanho": 10384196,
+  "sha256": "701e991454ebe728100592610f4563752ee21c1f85001b1ee2a13353ff2591be"
 }
