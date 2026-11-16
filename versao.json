@@ -1,12 +1,16 @@
 {
-  "versao": "1.28.3",
+  "versao": "1.29.0",
   "data": "2026-11-16",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Painel: os aniversariantes aparecem só na lista do mês (saiu o quadradinho repetido). A agenda também aparece uma vez só, com tudo dos próximos 30 dias, para todos (chefia e famílias)."
+    "Atas da seção (menu Operação): Conselho de Patrulha, Roca de Conselho, Corte de Honra, Conselho de Clã, Assembleia e reunião da chefia da seção — com presentes, pauta, registro, decisões e impressão para assinar.",
+    "Quem acessa: diretoria (todas as seções), chefes da seção e os jovens indicados pela chefia — o jovem indicado lê; marcado \"pode redigir\", também registra (ex.: secretário da Corte de Honra).",
+    "Formação dos adultos com os níveis Preliminar, Intermediário, Avançado e Insígnia da Madeira (os cadastros antigos foram convertidos).",
+    "Novo painel Efetivo (menu Cadastros): jovens e chefes por seção, entradas e saídas, evolução dos últimos 12 meses, presentes por sábado e a frequência de cada jovem pela presença da carteirinha, com destaque para quem está com frequência baixa ou 3 sábados seguidos sem vir. Também baixa em planilha.",
+    "Ao inativar um jovem, o sistema guarda a data de saída (para o efetivo e para tentar trazer de volta)."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.28.3.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.28.3.exe",
-  "tamanho": 10364675,
-  "sha256": "6b98eea044232a7d73c55764e35c1b32fb721552041987e51a154e5a33494783"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.29.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.29.0.exe",
+  "tamanho": 10386458,
+  "sha256": "d3425ac3732c721269fb8b497d117c18cbb4fa15c7787e6d165a4b3280793eac"
 }
