@@ -1,12 +1,16 @@
 {
-  "versao": "1.30.2",
+  "versao": "1.31.0",
   "data": "2026-11-22",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Administrador master corrigido: o master estava ligado a um usuário antigo que não existe mais, e por isso nenhum administrador conseguia mexer no acesso de outro administrador. Agora o master é o chefe.pablo, que pode dar e tirar o papel de administrador dos outros (e não perde o próprio)."
+    "Vários grupos no mesmo sistema: nova área \"Grupos do sistema\" (só do administrador master) para cadastrar um grupo escoteiro novo, criar o primeiro administrador dele (com senha provisória), acompanhar jovens, usuários, último acesso e o espaço de cada grupo.",
+    "O administrador master agora é também o suporte de todos os grupos: pela barra do topo ou pela área Grupos, ele entra em qualquer grupo e faz tudo lá. As telas mostram só o grupo ativo, sem misturar os dados dos grupos.",
+    "Documentos do jovem com limites novos para caber vários grupos no plano gratuito: cada arquivo até 1 MB, cada jovem até 2 MB (documentos + foto) e cada grupo com o seu espaço (60 MB, ajustável pelo master). As fotos dos documentos são reduzidas sozinhas até uns 350 KB.",
+    "Reenviar um documento que a chefia recusou substitui o recusado, sem ocupar espaço a mais.",
+    "Limpeza do banco: registros de auditoria e lixeira que sobravam dos testes automáticos foram removidos (eram quase 20 MB)."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.30.2.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.30.2.exe",
-  "tamanho": 10391401,
-  "sha256": "f44ac2ca5c93a76e11798a3200677d9ca9f85ed64e92589b5ccb1f8c934c44c9"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.31.0.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.31.0.exe",
+  "tamanho": 10391895,
+  "sha256": "b7a3e2c325df95994a8751fce9dc308fa1ff9012e0e92704a42f9ea10eeaad63"
 }
