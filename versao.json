@@ -1,13 +1,12 @@
 {
-  "versao": "1.30.1",
-  "data": "2026-11-16",
+  "versao": "1.30.2",
+  "data": "2026-11-22",
   "motor": "electron-22.3.27",
   "novidades": [
-    "Patrulhas: botão de excluir (lixeira) em cada patrulha da lista, para quem edita patrulhas. Antes de excluir, o sistema mostra quantos jovens ela tem; eles ficam sem patrulha (não são apagados) e dá para colocá-los em outra.",
-    "A lista de patrulhas agora mostra a seção e quantos jovens cada uma tem, para achar as duplicadas com facilidade."
+    "Administrador master corrigido: o master estava ligado a um usuário antigo que não existe mais, e por isso nenhum administrador conseguia mexer no acesso de outro administrador. Agora o master é o chefe.pablo, que pode dar e tirar o papel de administrador dos outros (e não perde o próprio)."
   ],
-  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.30.1.exe",
-  "arquivo": "Atualizar Guia do Chefe 1.30.1.exe",
-  "tamanho": 10385335,
-  "sha256": "75c2e8da3a6232340a1642f3ab09880625736bd8f3cde36911690bb2b24d0ec5"
+  "url": "https://raw.githubusercontent.com/segprofab-sudo/guia-do-chefe-atualizacoes/main/versoes/Atualizar-Guia-do-Chefe-1.30.2.exe",
+  "arquivo": "Atualizar Guia do Chefe 1.30.2.exe",
+  "tamanho": 10391401,
+  "sha256": "f44ac2ca5c93a76e11798a3200677d9ca9f85ed64e92589b5ccb1f8c934c44c9"
 }
